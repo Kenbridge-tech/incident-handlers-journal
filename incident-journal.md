@@ -31,7 +31,7 @@ An **organized group of unethical hackers** known for targeting healthcare and t
 A **ransomware attack** was deployed through phishing emails. Employees who opened the malicious attachment triggered the encryption of critical files.  
 
 - **When did the incident occur?**  
-On **Tuesday morning at approximately 9:00 a.m.**, disrupting the clinic’s operations.  
+On **Monday morning at approximately 9:00 a.m.**, disrupting the clinic’s operations.  
 
 - **Where did the incident happen?**  
 At a **small healthcare clinic in the U.S.**, affecting internal systems and access to patient records.  
