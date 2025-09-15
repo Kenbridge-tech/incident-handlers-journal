@@ -41,6 +41,10 @@ Because an employee downloaded a **phishing email attachment**, which allowed at
 
 ---
 
+👉  **See incident-handler-journal.pdf** [here:](docs/Incident_handler's_journal_entry.pdf)
+
+---
+
 ## Additional Notes & Reflections  
 - This incident highlights the need for **employee security awareness training** to help staff recognize phishing attempts.  
 - **Email filtering, endpoint protection, and regular data backups** could have reduced the impact of this attack.  
