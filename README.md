@@ -9,9 +9,9 @@ and capture lessons learned for future response readiness.
 
 ---
 
-## 🔍 Key Highlights
+## Key Highlights
 -  **Incident Documentation** using a handler’s journal  
-- **Root Cause Analysis** of a phishing → ransomware attack  
+- **Root Cause Analysis** of a phishing - ransomware attack  
 - **Reflections & Lessons Learned** for better response planning  
 
 ---
