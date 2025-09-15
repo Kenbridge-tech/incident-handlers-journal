@@ -1,4 +1,4 @@
-# 📝 Incident Handler’s Journal – Entry #001
+# Incident Handler’s Journal – Entry #001
 
 ## Date  
 September 15, 2025  
