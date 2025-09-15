@@ -17,6 +17,6 @@ and capture lessons learned for future response readiness.
 ---
 
 ## Incident Journal Entry
-![Incident Journal Template](./images/incident-template.png)
+![Incident Journal Template](images/incident_template.png)
 
 👉 Full detailed journal can be found here: [incident-journal.md](incident-journal.md)
